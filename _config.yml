@@ -109,6 +109,7 @@ author:
   bio              : "ER Physician"
   location         : "Kaohsiung Chang Gung Memorial Hospital" <a href="https://www.cgmh.org.tw/tw/Services/AdvisoryInfo/10">
   email            :
+  github           : "ImRayChiu"
   links:
      label: "Email"
       icon: "fas fa-fw fa-envelope-square"
