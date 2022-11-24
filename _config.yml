@@ -130,9 +130,6 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:outofray24@hotmail.com"
     - label: "Google scholar"
       url: "https://scholar.google.com.tw/citations?user=r1986AEAAAAJ&hl=zh-TW"
     - label: "Twitter"
