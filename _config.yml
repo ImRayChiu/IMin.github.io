@@ -109,7 +109,7 @@ author:
   bio              : "ER Physician"
   location         : "Chang Gung Hospital" 
   email            :
-  github           : "ImRayChiu"
+  github           : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
