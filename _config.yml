@@ -111,11 +111,8 @@ author:
   email            :
   github           : 
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:outofray@hotmail.com"
     - label: "Google scholar"
-      icon: &googlescholar
+      icon: ""
       url: "https://scholar.google.com.tw/citations?user=r1986AEAAAAJ&hl=zh-TW"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
