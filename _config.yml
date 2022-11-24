@@ -112,23 +112,21 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "mailto:outofray24@hotmail.com"
+    - label: "Google scholar"
+      "<img src="https://gcgosling.files.wordpress.com/2012/10/google-scholar-logo.png"></a>"
+      url: "https://scholar.google.com.tw/citations?user=r1986AEAAAAJ&hl=zh-TW"
+     - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/IMinChiu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
-
+      url: "https://twitter.com/Ray29750200"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin-in"
+      url: "https://www.linkedin.com/in/i-min-chiu-45a789182/"
+  
+  
 # Site Footer
 footer:
   links:
