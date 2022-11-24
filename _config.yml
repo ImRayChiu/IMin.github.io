@@ -106,7 +106,8 @@ analytics:
 author:
   name             : "Ray Chiu 邱義閔"
   avatar           : "/assets/Logo.jpg"   # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "ER Physician @ C"
+  bio              : "ER physician"
+  bio              : "PhD candidate in computer science"
   location         : 
   email            :
   github           : 
