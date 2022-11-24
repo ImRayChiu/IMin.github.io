@@ -110,7 +110,7 @@ author:
   location         : "Kaohsiung Chang Gung Memorial Hospital" <a href="https://www.cgmh.org.tw/tw/Services/AdvisoryInfo/10">
   email            :
   links:
-    - label: "Email"
+     label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:outofray24@hotmail.com"
     - label: "Google scholar"
