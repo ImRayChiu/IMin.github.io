@@ -107,7 +107,7 @@ author:
   name             : "Ray Chiu 邱義閔"
   avatar           : "/assets/Logo.jpg"   # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "ER Physician"
-  location         : "Kaohsiung Chang Gung Memorial Hospital"  url: "https://www.cgmh.org.tw/tw/Services/AdvisoryInfo/10"
+  location         : "Kaohsiung Chang Gung Memorial Hospital" <a href="https://www.cgmh.org.tw/tw/Services/AdvisoryInfo/10">
   email            :
   links:
     - label: "Email"
