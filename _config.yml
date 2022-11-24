@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Ray Chiu"
 title_separator          : "-"
 subtitle                 : "Ray Chiu 邱義閔" # site tagline that appears below site title in masthead
-name                     : #"Ray Chiu"
+name                     : "ER physician @ Chang Gung Memorial Hospital" 
 description              : "An mazing website."
 url                      : "https://imraychiu.github.io/IMin.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
