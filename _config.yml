@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Ray Chiu 邱義閔"
   avatar           : "/assets/Logo.jpg"   # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "ER Physician"
-  location         : "Chang Gung Hospital" 
+  bio              : "ER Physician @ C"
+  location         : 
   email            :
   github           : 
   links:
