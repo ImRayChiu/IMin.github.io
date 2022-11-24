@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Ray Chiu"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Ray Chiu"
 description              : "An amazing website."
 url                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Ray Chiu 邱義閔"
   avatar           : "/assets/Logo.jpg"   # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "ER physician" "PhD candidate in CSE"
+  bio              : "ER physician@Chang Gung Hospital" 
   location         : "Taiwan"
   email            :
   github           : 
