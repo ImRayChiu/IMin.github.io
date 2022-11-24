@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Ray Chiu 邱義閔"
-  avatar           : "/assets/Logo1124.jpg"   # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/Logo.jpg"   # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "ER Physician"
   location         : "Chang Gung Memorial Hospital"
   email            :
