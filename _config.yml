@@ -112,7 +112,7 @@ author:
   github           : 
   links:
     - label: "Google scholar"
-      icon: ""
+      icon: "/assets/icons8-google-scholar-24.png"
       url: "https://scholar.google.com.tw/citations?user=r1986AEAAAAJ&hl=zh-TW"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
