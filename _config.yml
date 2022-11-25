@@ -20,7 +20,7 @@ title                    : "Ray Chiu"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Ray Chiu"
-description              : "An amazing website."
+description              :  "ER physician@Chang Gung Hospital"/ "PhD candidate in CSE"
 url                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,13 +106,13 @@ analytics:
 author:
   name             : "Ray Chiu 邱義閔"
   avatar           : "/assets/Logo.jpg"   # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "ER physician@Chang Gung Hospital" 
+  bio              : 
   location         : "Taiwan"
   email            :
   github           : 
   links:
     - label: Google Scholar
-      icon: "ai ai-google-scholar-square ai-3x"
+    # icon: 
       url: "https://scholar.google.com.tw/citations?user=r1986AEAAAAJ&hl=zh-TW"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
