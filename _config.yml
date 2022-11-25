@@ -112,7 +112,7 @@ author:
   github           : 
   links:
     - label: Google Scholar
-      icon: ""ai ai-google-scholar-square ai-3x"
+      icon: "ai ai-google-scholar-square ai-3x"
       url: "https://scholar.google.com.tw/citations?user=r1986AEAAAAJ&hl=zh-TW"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
